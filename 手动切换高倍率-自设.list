@@ -1,0 +1,8 @@
+# 域名后缀匹配
+#DOMAIN-SUFFIX,
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,
+
+# 应用程序匹配
+#PROCESS-NAME,Telegram.exe
