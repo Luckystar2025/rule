@@ -1,0 +1,10 @@
+# 域名后缀匹配
+DOMAIN-SUFFIX,gg5.co
+
+
+# 域名关键字匹配
+#DOMAIN-KEYWORD,javdb
+
+
+# 应用程序匹配
+#PROCESS-NAME,Telegram.exe
