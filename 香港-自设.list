@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,empornium.is
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
+DOMAIN-KEYWORD,7pzzv
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
