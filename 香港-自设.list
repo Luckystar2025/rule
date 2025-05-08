@@ -14,12 +14,12 @@ DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,x999x.me
 DOMAIN-SUFFIX,avsox.click
 DOMAIN-SUFFIX,empornium.is
+DOMAIN-SUFFIX,7pzzv.us
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
-DOMAIN-KEYWORD,7pzzv
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
