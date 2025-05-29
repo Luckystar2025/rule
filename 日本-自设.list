@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,nxtv.jp
 DOMAIN-SUFFIX,allcinema.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,amazon.co.jp
+# IPv4 地址匹配
+IP-CIDR,149.28.30.40/32,DIRECT
 
 # 应用程序匹配
 #PROCESS-NAME,iKOA_DMF.exe
