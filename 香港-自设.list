@@ -30,6 +30,11 @@ DOMAIN-SUFFIX,eiga.k-img.com
 
 
 
+
+DOMAIN-SUFFIX,torrentsee289.com
+DOMAIN-SUFFIX,torrentbot197.com
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
