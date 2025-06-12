@@ -34,13 +34,14 @@ DOMAIN-SUFFIX,clmclm.com
 
 DOMAIN-SUFFIX,tfreeca22.top
 DOMAIN-SUFFIX,avgosu58.com
-DOMAIN-SUFFIX,torrentsee289.com
-DOMAIN-SUFFIX,torrentbot197.com
+
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
+DOMAIN-KEYWORD,torrentsee.com
+DOMAIN-KEYWORD,torrentbot.com
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
