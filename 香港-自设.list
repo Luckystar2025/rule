@@ -40,8 +40,10 @@ DOMAIN-SUFFIX,avgosu58.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
-DOMAIN-KEYWORD,torrentsee.com
-DOMAIN-KEYWORD,torrentbot.com
+#DOMAIN-KEYWORD,torrentsee
+#DOMAIN-KEYWORD,torrentbot
+
+DOMAIN-REGEX,^torrentsee\d+\.com$
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
