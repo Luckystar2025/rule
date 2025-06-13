@@ -36,11 +36,12 @@ DOMAIN-SUFFIX,tfreeca22.top
 DOMAIN-SUFFIX,avgosu58.com
 DOMAIN-SUFFIX,jogemovie.net
 DOMAIN-SUFFIX,grandwinlinkstream.site
-DOMAIN-SUFFIX,krx18
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
+DOMAIN-KEYWORD,krx18
 
 # 正则表达式匹配
 DOMAIN-REGEX,^torrentsee\d+\.com$
