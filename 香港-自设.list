@@ -35,7 +35,7 @@ DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,116pan.com
 DOMAIN-SUFFIX,hdencode.org
 
-DOMAIN-SUFFIX,api.themoviedb
+
 
 DOMAIN-SUFFIX,1024terabox.com
 DOMAIN-SUFFIX,1024tera.com
@@ -51,9 +51,11 @@ DOMAIN-SUFFIX,xiaoyakankan.tv
 
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,themoviedb
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,sehuatang
 DOMAIN-KEYWORD,krx18
+
 
 # 正则表达式匹配
 DOMAIN-REGEX,^torrentsee\d+\.com$
