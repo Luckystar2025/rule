@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,116pan.com
 DOMAIN-SUFFIX,hdencode.org
 DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,hhanclub.top
 
 
 
@@ -64,3 +65,4 @@ DOMAIN-REGEX,^torrentbot\d+\.com$
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
+
