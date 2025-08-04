@@ -36,7 +36,6 @@ DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,116pan.com
 DOMAIN-SUFFIX,hdencode.org
 DOMAIN-SUFFIX,ubits.club
-DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,torrentleech.org
 
 
@@ -63,8 +62,10 @@ DOMAIN-KEYWORD,krx18
 # 正则表达式匹配
 DOMAIN-REGEX,^torrentsee\d+\.com$
 DOMAIN-REGEX,^torrentbot\d+\.com$
+DOMAIN-REGEX,^hhanclub.top$ 
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
+
 
 
