@@ -63,9 +63,11 @@ DOMAIN-KEYWORD,krx18
 DOMAIN-REGEX,^torrentsee\d+\.com$
 DOMAIN-REGEX,^torrentbot\d+\.com$
 DOMAIN-REGEX,^hhanclub.top$ 
+DOMAIN-REGEX,^hdtime.org$
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
+
 
 
 
