@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,116pan.com
 DOMAIN-SUFFIX,hdencode.org
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,torrentleech.org
+DOMAIN-SUFFIX,hostloc.com
 
 
 
@@ -67,6 +68,7 @@ DOMAIN-REGEX,^hdtime.org$
 
 # 应用程序匹配
 #PROCESS-NAME,Telegram.exe
+
 
 
 
